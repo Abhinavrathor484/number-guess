@@ -1,6 +1,3 @@
-package NumberGuess;
-
-
 import java.util.Random;
 import java.util.Scanner;
 
@@ -11,7 +8,6 @@ public class GuessNumber {
     private static final int MAX_ROUNDS = 3;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub		
-		System.out.println("hurray");
 		Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
